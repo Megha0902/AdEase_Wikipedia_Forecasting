@@ -40,7 +40,7 @@ Ad_Ease aims to forecast Wikipedia page views (145k pages, 550 days, multiple la
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AdEase_Wikipedia_Forecasting.git
+   git clone https://github.com/Megha0902/AdEase_Wikipedia_Forecasting.git
     ```
 2. Run notebooks/scripts:
 
